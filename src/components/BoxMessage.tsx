@@ -40,7 +40,6 @@ function BoxMessage() {
     { message: 'I love you js', user: 'Linh', date: '15/08/2020'},
     { message: 'I love you js', user: 'Linh', date: '15/08/2020'},
     { message: 'I love you js', user: 'Linh', date: '15/08/2020'},
-    { message: 'I love you js', user: 'Linh', date: '15/08/2020'},
     { message: 'I love you js', user: 'Linh', date: '15/08/2020'}
   ]
   return (
